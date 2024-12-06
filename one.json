@@ -1,0 +1,11 @@
+{
+    "name": "DocReader",
+    "version": "1.0.0",
+    "description": "A backend service for reading documents",
+    "author": "Ali",
+    "license": "MIT",
+    "dependencies": {
+        "express": "^4.17.1",
+        "mongoose": "^5.10.9"
+    }
+}

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+    <title>Sample Document</title>
+    <author>Ali</author>
+    <content>
+        <section>
+            <heading>Introduction</heading>
+            <paragraph>This is the introduction section of the document.</paragraph>
+        </section>
+        <section>
+            <heading>Body</heading>
+            <paragraph>This is the body section of the document.</paragraph>
+        </section>
+        <section>
+            <heading>Conclusion</heading>
+            <paragraph>This is the conclusion section of the document.</paragraph>
+        </section>
+    </content>
+</document>
