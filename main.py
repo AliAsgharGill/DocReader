@@ -184,7 +184,7 @@ class UnifiedFileReader:
 
 # Example Usage
 if __name__ == "__main__":
-    file_name = "test.csv"
+    file_name = "ch3.pdf"
     reader = UnifiedFileReader()
 
     # Read the file
