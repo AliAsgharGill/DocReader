@@ -1,0 +1,7 @@
+name: John Doe
+age: 30
+isEmployed: true
+skills:
+  - Python
+  - JavaScript
+  - React

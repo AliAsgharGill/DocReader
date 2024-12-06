@@ -1,0 +1,10 @@
+<person>
+    <name>John Doe</name>
+    <age>30</age>
+    <isEmployed>true</isEmployed>
+    <skills>
+        <skill>Python</skill>
+        <skill>JavaScript</skill>
+        <skill>React</skill>
+    </skills>
+</person>
